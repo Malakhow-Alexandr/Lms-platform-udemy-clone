@@ -16,8 +16,6 @@ const guestRoutes = [
   },
 ];
 
-console.log(LayoutIcon);
-
 const SidebarRoutes = () => {
   const routes = guestRoutes;
 
